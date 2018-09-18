@@ -2,7 +2,9 @@
 
 These files were downloaded from https://sourceforge.net/projects/luabinaries/files/5.1.5/Windows%20Libraries/Dynamic/
 
-# License as described here http://luabinaries.sourceforge.net/license.html
+## License
+
+http://luabinaries.sourceforge.net/license.html
 
 Copyright © 2005-2017 Tecgraf/PUC-Rio and the Kepler Project.
 
